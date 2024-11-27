@@ -2,6 +2,10 @@
 
 ## Swarm-LIO2: Decentralized, Effcient LiDAR-inertial Odometry for UAV Swarms
 
+### 📢 News
+
+- 🎉 **2024-11-27**: Accepted by **T-RO '24**!  
+
 ### Introduction
 
 **Swarm-LIO2** is a fully decentralized, plug-and-play, computationally efficient, and bandwidth-efficient LiDAR-inertial odometry for aerial swarm systems.
